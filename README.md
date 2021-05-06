@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Parunanodesu
 - 👀 I’m interested in ...C#
 - 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...Mr.Mafi
+- 💞️ I’m looking to collaborate on ...Mr.Lloid
 - 📫 How to reach me ...
 
 <!---
