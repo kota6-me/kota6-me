@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Parunanodesu
-- 👀 I’m interested in ...C#
-- 🌱 I’m currently learning ...JavaScript
-- 💞️ I’m looking to collaborate on ...Mr.Lloid
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Exam 
+- 🌱 I’m currently learning ...JavaScript,HTML,CSS
+- 💞️ I’m looking to collaborate on ...@すずねーう
+- 📫 How to reach me ...You can able to reach me easily and also go higher than me :)
 
 <!---
 Parunanodesu/Parunanodesu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
