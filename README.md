@@ -7,8 +7,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?names=js,html,css,xml,json,powershell,markdown&includeNames=true)](https://github.com/Jurredr/github-widgetbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parunanodesu
-?theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parunanodesu?theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 Parunanodesu/Parunanodesu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
