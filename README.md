@@ -7,14 +7,14 @@
 **_連絡先_**<br>
 ・Discord：`ぱる！#9999` => おそらく一番対応が早いです。<br>
 ・メール：parudesu@protonmail.com => 2,3日ほどで対応いたします。<br>
-・Reddit：`Parunano_desu_` => 半年に一回チェックするのはいい方
-・node：https://note.com/parunano_desu => 最近更新してないnote
-
+・Reddit：`Parunano_desu_` => 半年に一回チェックするのはいい方<br>
+・note：https://note.com/parunano_desu => 最近更新してないnote<br>
+<br>
 **_Discord関係_**<br>
-・`ぱる！#9999` => メイン垢
-・[https://discord.gg/stjntUCtfs](自鯖)
-・[https://discord.gg/4JCwBfVPd8](僕がよく出没する一番尊敬してる人の鯖)
-・[https://is.gd/nC3QzV](自作したBot[未公開])
+・`ぱる！#9999` => メイン垢<br>
+・[https://discord.gg/stjntUCtfs](自鯖)<br>
+・[https://discord.gg/4JCwBfVPd8](僕がよく出没する一番尊敬してる人の鯖)<br>
+・[https://is.gd/nC3QzV](自作したBot[未公開])<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parunanodesu&show_icons=true&title_color=5865F2&text_color=5865F2&icon_color=ED4245&bg_color=60,FEE75C,57F287&locale=en&border_radius=true)
 
