@@ -6,7 +6,7 @@
 様々なことに興味がありますので、チーム招待などもどんどんしていただければ嬉しいです！<br>
 **_連絡先_**<br>
 ・Discord：`ぱる！#9999` => おそらく一番対応が早いです。<br>
-・メール：parudesu@protonmail.com => 2,3日ほどで対応いたします。<br>
+・メール：tsukasa.me@protonmail.com => 2,3日ほどで対応いたします。<br>
 ・Reddit：`Parunano_desu_` => 半年に一回チェックするのはいい方<br>
 ・note：https://note.com/parunano_desu => 最近更新してないnote<br>
 <br>
