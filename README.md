@@ -16,7 +16,7 @@
 ・https://discord.gg/4JCwBfVPd8 => 僕がよく出没する一番尊敬してる人の鯖 <br>
 ・https://is.gd/nC3QzV => 自作したBot(未公開) <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parunanodesu&show_icons=true&title_color=5865F2&text_color=5865F2&icon_color=ED4245&bg_color=60,FEE75C,57F287&locale=en&border_radius=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parunanodesu&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=60,F69BB9,F6BF9B&locale=en&border_radius=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parunanodesu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
