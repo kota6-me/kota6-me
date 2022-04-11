@@ -1,20 +1,15 @@
-👋こんにちは！　ぱる！です！<br>
-よく間違える方がいるのですが僕は「ぱる！」であって「ぱる」でも「パル」でも「Pal」でもないです。(Paruが英文時記法)<br>
-最後の「Pal」に至っては**おそらく**このページをご覧になっているほとんどの方とは「親友」になっていないので、そこまで関係が深まったら使ってもいいんじゃないっすか？(他人事)<br>
-新言語「Exam」の制作に携わっています。また、HTML、CSSも勉強しています。他言語についても随時履修予定です。<br>
-今後の予定：Go、Python、TypeScript、C#<br>
-様々なことに興味がありますので、チーム招待などもどんどんしていただければ嬉しいです！<br>
+👋こんにちは！　律です！<br>
+DiscordというSNSでNode.JSでBotを作っている高校生です！
+また、HTML、CSSも勉強しています。他言語についても随時履修予定です。<br>
 **_連絡先_**<br>
-・Discord：`ぱる！#9999` => おそらく一番対応が早いです。<br>
+・Discord：`律-Ritsu#0001` => おそらく一番対応が早いです。<br>
 ・メール：tsukasa.me@protonmail.com => 2,3日ほどで対応いたします。<br>
-・Reddit：`Parunano_desu_` => 半年に一回チェックするのはいい方<br>
-・note：https://note.com/parunano_desu => 最近更新してないnote<br>
 <br>
 **_Discord関係_**<br>
-・`ぱる！#9999` => メイン垢<br>
+・`律-Ritsu#0001` => メイン垢<br>
 ・https://discord.gg/stjntUCtfs => 自鯖 <br>
 ・https://discord.gg/4JCwBfVPd8 => 僕がよく出没する一番尊敬してる人の鯖 <br>
-・https://is.gd/nC3QzV => 自作したBot(未公開) <br>
+/*・https://is.gd/nC3QzV => 自作したBot(未公開) <br>*/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parunanodesu&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=60,F69BB9,F6BF9B&locale=en&border_radius=true)
 
