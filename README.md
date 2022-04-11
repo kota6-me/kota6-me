@@ -9,7 +9,6 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ・`律-Ritsu#0001` => メイン垢<br>
 ・https://discord.gg/stjntUCtfs => 自鯖 <br>
 ・https://discord.gg/4JCwBfVPd8 => 僕がよく出没する一番尊敬してる人の鯖 <br>
-/*・https://is.gd/nC3QzV => 自作したBot(未公開) <br>*/
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parunanodesu&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=60,F69BB9,F6BF9B&locale=en&border_radius=true)
 
