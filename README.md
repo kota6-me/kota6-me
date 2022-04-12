@@ -10,9 +10,9 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ・https://discord.gg/stjntUCtfs => 自鯖 <br>
 ・https://discord.gg/4JCwBfVPd8 => 僕がよく出没する一番尊敬してる人の鯖 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Parunanodesu&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=60,F69BB9,F6BF9B&locale=en&border_radius=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritsunandez&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=60,F69BB9,F6BF9B&locale=en&border_radius=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Parunanodesu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritsunandez&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Parunanodesu/Parunanodesu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
