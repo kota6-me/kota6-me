@@ -3,7 +3,7 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 また、HTML、CSSも勉強しています。他言語についても随時履修予定です。<br>
 **_連絡先_**<br>
 ・Discord：`律-Ritsu#0001` => おそらく一番対応が早いです。<br>
-・メール：tsukasa.me@protonmail.com => 2,3日ほどで対応いたします。<br>
+・メール：ritsu.me@protonmail.com => 2,3日ほどで対応いたします。<br>
 <br>
 **_Discord関係_**<br>
 ・`律-Ritsu#0001` => メイン垢<br>
