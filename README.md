@@ -7,8 +7,11 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 <br>
 **_Discord関係_**<br>
 ・`律-Ritsu#0001` => メイン垢<br>
-・https://discord.gg/stjntUCtfs => 自鯖 <br>
-・https://discord.gg/4JCwBfVPd8 => 僕がよく出没する一番尊敬してる人の鯖 <br>
+・[自鯖](https://discord.gg/wTEAPKtZBX)<br>
+<br>
+**_Website_**<br>
+・[公式サイト](https://www.ritsu-me.net/)
+・[ブログ](https://blog.ritsu-me.net/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritsunandez&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=60,F69BB9,F6BF9B&locale=en&border_radius=true)
 
