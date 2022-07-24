@@ -10,8 +10,8 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ・[自鯖](https://discord.gg/wTEAPKtZBX)<br>
 <br>
 **_Website_**<br>
-・[公式サイト](https://www.ritsu-me.net/)
-・[ブログ](https://blog.ritsu-me.net/)
+・[公式サイト](https://www.ritsu-me.net/)<br>
+・[ブログ](https://blog.ritsu-me.net/)<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritsunandez&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=60,F69BB9,F6BF9B&locale=en&border_radius=true)
 
