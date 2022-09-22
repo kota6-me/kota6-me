@@ -6,7 +6,7 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ## 連絡先<br>
 ・Discord：`律-Ritsu#0001` => おそらく一番対応が早いです。<br>
 ・メール：ritsu.me@proton.me 若しくは mail@ritsu-me.com => 2,3日ほどで対応いたします。<br>
-![](https://img.shields.io/github/followers/ritsu-me?style=flat) ![](https://img.shields.io/twitter/follow/ritsu_me?style=social)
+![](https://img.shields.io/github/followers/ritsu-me?style=social) ![](https://img.shields.io/twitter/follow/ritsu_me?style=social)
 <br>
 ## Discord関係<br>
 ・`律-Ritsu#0001` => メイン垢<br>
@@ -35,6 +35,7 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ![](https://img.shields.io/badge/Node.js-3c873a?labelColor=black&logo=node.js)
 ![](https://img.shields.io/badge/JavaScript-f0db4f?labelColor=black&logo=javascript)
 ![](https://img.shields.io/badge/TypeScript-007acc?labelColor=black&logo=typescript)
+![](https://img.shields.io/badge/TypeScript-007acc?labelColor=#E34F26&logo=html)
 
 ### ホスト
 
