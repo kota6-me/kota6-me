@@ -52,5 +52,5 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 
 ### SNS
 
-[![](https://img.shields.io/badge/Twitter_(@ritsu_me)-1da1f2?labelColor=black&logo=twitter)](https://twitter.com/ritsu_me)
-[![](https://img.shields.io/badge/Discord_(律-Ritsu%230001)-5865f2?labelColor=black&logo=discord)](https://discord.com/users/716343156513439845)
+[![](https://img.shields.io/badge/Twitter_("@ritsu_me")-1da1f2?labelColor=black&logo=twitter)](https://twitter.com/ritsu_me)
+[![](https://img.shields.io/badge/Discord_("律-Ritsu#0001")-5865f2?labelColor=black&logo=discord)](https://discord.com/users/716343156513439845)
