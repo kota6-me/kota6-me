@@ -18,7 +18,7 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ・[自鯖](https://discord.gg/wTEAPKtZBX)<br>
 <br>
 ## Website<br>
-・[公式サイト](https://ritsu-me.com/)<br>
+・[公式サイト](https://ritsu-me.com/)[](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)<br>
 ・[ブログ](https://blog.ritsu-me.net/)<br>
 
 ## 閲覧数
