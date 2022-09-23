@@ -84,6 +84,11 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ![](https://img.shields.io/badge/Riot_Games-D32936?style=flat&logo=riot-games&logoColor=white)
 ![](https://img.shields.io/badge/McDonald's-FBC817?style=flat&logo=McDonald's&logoColor=white)
 
+### マシン
+
+![](https://img.shields.io/badge/AMD%20Ryzen_3_3100-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
 ### SNS
 
 [![](https://img.shields.io/badge/Twitter_(@ritsu_me)-1da1f2?labelColor=black&logo=twitter)](https://twitter.com/ritsu_me)
