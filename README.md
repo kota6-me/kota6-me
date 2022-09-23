@@ -6,7 +6,10 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ## 連絡先<br>
 ・Discord：`律-Ritsu#0001` => おそらく一番対応が早いです。<br>
 ・メール：ritsu.me@proton.me 若しくは mail@ritsu-me.com => 2,3日ほどで対応いたします。<br>
-![](https://img.shields.io/github/followers/ritsu-me?style=social) ![](https://img.shields.io/twitter/follow/ritsu_me?style=social)
+<br>
+![](https://img.shields.io/github/followers/ritsu-me?style=social)<br>
+![](https://img.shields.io/twitter/follow/ritsu_me?style=social)<br>
+![](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)<br>
 <br>
 ## Discord関係<br>
 ・`律-Ritsu#0001` => メイン垢<br>
@@ -32,9 +35,22 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 
 ### 言語
 
-![](https://img.shields.io/badge/Node.js-3c873a?labelColor=black&logo=node.js)
+![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-f0db4f?labelColor=black&logo=javascript)
+![](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/Scratch-4D97FF?style=flat&logo=Scratch&logoColor=white)
+
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 勉強中
+
 ![](https://img.shields.io/badge/TypeScript-007acc?labelColor=black&logo=typescript)
+![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
 ### ホスト
 
@@ -44,12 +60,23 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 
 ### エディター
 
+![](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?labelColor=black&logo=visual-studio-code)
+![](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)
+![](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
 
 ### OS
 
 ![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
 ![](https://img.shields.io/badge/Android-32de84?labelColor=black&logo=android)
+
+## 相棒
+
+![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
+![](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white)
+![](https://img.shields.io/badge/Riot_Games-D32936?style=flat&logo=riot-games&logoColor=white)
+![](https://img.shields.io/badge/McDonald's-FBC817?style=flat&logo=McDonald's&logoColor=white)
 
 ### SNS
 
