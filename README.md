@@ -53,6 +53,7 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 
 ![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007acc?labelColor=black&logo=typescript)
+![](https://img.shields.io/badge/next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
@@ -67,10 +68,12 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ### エディター
 
 ![](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?labelColor=black&logo=visual-studio-code)
 ![](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat?labelColor=black&logo=visual-studio-code)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
+![](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 
 ### OS
 
@@ -87,8 +90,11 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white)
+![](https://img.shields.io/badge/Origin-148EFF?style=flat&logo=origin&logoColor=white)
 ![](https://img.shields.io/badge/Riot_Games-D32936?style=flat&logo=riot-games&logoColor=white)
+![](https://img.shields.io/badge/Epic%20Games-313131?style=flat&logo=Epic%20Games&logoColor=white)
 ![](https://img.shields.io/badge/McDonald's-FBC817?style=flat&logo=McDonald's&logoColor=white)
+![](https://img.shields.io/badge/KFC-F40027?style=flat&logo=kfc&logoColor=white)
 
 ### マシン
 
