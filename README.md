@@ -4,7 +4,7 @@
 DiscordというSNSでNode.JSでBotを作っている高校生です！
 また、HTML、CSSも勉強しています。他言語についても随時履修予定です。<br>
 ## 連絡先<br>
-・Discord：`律-Ritsu#0001` => おそらく一番対応が早いです。<br>
+・[![](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/716343156513439845)：`律-Ritsu#0001` => おそらく一番対応が早いです。<br>
 ・メール：ritsu.me@proton.me 若しくは mail@ritsu-me.com => 2,3日ほどで対応いたします。<br>
 <br>
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritsu_me)<!--
@@ -92,8 +92,3 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 
 ![](https://img.shields.io/badge/AMD%20Ryzen_3_3100-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![](https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### SNS
-
-[![](https://img.shields.io/badge/Twitter_(@ritsu_me)-1da1f2?labelColor=black&logo=twitter)](https://twitter.com/ritsu_me)
-[![](https://img.shields.io/badge/Discord_(律-Ritsu%230001)-5865f2?labelColor=black&logo=discord)](https://discord.com/users/716343156513439845)
