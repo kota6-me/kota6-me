@@ -9,7 +9,8 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 <br>
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritsu_me)<!--
 [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ritsume?country.x=JP&locale.x=ja_JP)-->
-[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ritsu.me)<br>
+[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ritsu.me)
+[![](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://donate.stripe.com/bIY8A8ez3e2Q5y07ss)<br>
 <br>
 ## Discord関係<br>
 ・`律-Ritsu#0001` => メイン垢<br>
