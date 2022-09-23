@@ -44,6 +44,7 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ![](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Scratch-4D97FF?style=flat&logo=Scratch&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
