@@ -71,7 +71,7 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
 ![](https://img.shields.io/badge/Android-32de84?labelColor=black&logo=android)
 
-## 相棒
+### 相棒
 
 ![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white)
