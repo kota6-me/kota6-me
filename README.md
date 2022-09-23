@@ -7,9 +7,8 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ・Discord：`律-Ritsu#0001` => おそらく一番対応が早いです。<br>
 ・メール：ritsu.me@proton.me 若しくは mail@ritsu-me.com => 2,3日ほどで対応いたします。<br>
 <br>
-![](https://img.shields.io/github/followers/ritsu-me?style=social)<br>
-![](https://img.shields.io/twitter/follow/ritsu_me?style=social)<br>
-![](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)<br>
+![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) >> [フォローはこちら](https://twitter.com/ritsu_me)<br>
+![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) >> [ご支援はこちら](https://paypal.me/ritsume?country.x=JP&locale.x=ja_JP)<br>
 <br>
 ## Discord関係<br>
 ・`律-Ritsu#0001` => メイン垢<br>
@@ -69,11 +68,16 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 
 ### OS
 
+![](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
 ![](https://img.shields.io/badge/Android-32de84?labelColor=black&logo=android)
+![](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 相棒
 
+![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white)
 ![](https://img.shields.io/badge/Riot_Games-D32936?style=flat&logo=riot-games&logoColor=white)
