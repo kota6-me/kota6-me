@@ -5,12 +5,13 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 また、HTML、CSSも勉強しています。他言語についても随時履修予定です。<br>
 ## 連絡先<br>
 ・[![](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/716343156513439845)：`律-Ritsu#0001` => おそらく一番対応が早いです。<br>
-・メール：ritsu.me@proton.me 若しくは mail@ritsu-me.com => 2,3日ほどで対応いたします。<br>
+・メール：mail@ritsu-me.com => 2,3日ほどで対応いたします。<br>
 <br>
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritsu_me)<!--
 [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ritsume?country.x=JP&locale.x=ja_JP)-->
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ritsu.me)
-[![](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://donate.stripe.com/bIY8A8ez3e2Q5y07ss)<br>
+[![](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://donate.stripe.com/bIY8A8ez3e2Q5y07ss)
+[![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ritsu.me@proton.me)<br>
 <br>
 ## Discord関係<br>
 ・`律-Ritsu#0001` => メイン垢<br>
