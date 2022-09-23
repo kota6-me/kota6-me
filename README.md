@@ -7,8 +7,8 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ・Discord：`律-Ritsu#0001` => おそらく一番対応が早いです。<br>
 ・メール：ritsu.me@proton.me 若しくは mail@ritsu-me.com => 2,3日ほどで対応いたします。<br>
 <br>
-![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) >> [フォローはこちら](https://twitter.com/ritsu_me)<br>
-![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white) >> [ご支援はこちら](https://paypal.me/ritsume?country.x=JP&locale.x=ja_JP)<br>
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritsu_me)
+[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ritsume?country.x=JP&locale.x=ja_JP)<br>
 <br>
 ## Discord関係<br>
 ・`律-Ritsu#0001` => メイン垢<br>
@@ -77,7 +77,7 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 
 ### 相棒
 
-![](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white) >> [プロフィール](https://open.spotify.com/user/31cqxovj6tzltyrvitvwzaxxt7dy)<br>
+[![](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/31cqxovj6tzltyrvitvwzaxxt7dy)
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white)
