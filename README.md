@@ -7,8 +7,8 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 ・Discord：`律-Ritsu#0001` => おそらく一番対応が早いです。<br>
 ・メール：ritsu.me@proton.me 若しくは mail@ritsu-me.com => 2,3日ほどで対応いたします。<br>
 <br>
-[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritsu_me)
-[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ritsume?country.x=JP&locale.x=ja_JP)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritsu_me)<!--
+[![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ritsume?country.x=JP&locale.x=ja_JP)-->
 [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ritsu.me)<br>
 <br>
 ## Discord関係<br>
