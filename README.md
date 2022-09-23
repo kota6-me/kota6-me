@@ -46,6 +46,7 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 
 ### 勉強中
 
+![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007acc?labelColor=black&logo=typescript)
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
