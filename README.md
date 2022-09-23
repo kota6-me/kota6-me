@@ -30,6 +30,8 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritsu-me&layout=compact)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritsu-me&theme=vue)
+
 ## 使用言語・ツール等
 
 ### 言語
