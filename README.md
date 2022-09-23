@@ -77,7 +77,7 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 
 ### 相棒
 
-![](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white) >> [プロフィール](https://open.spotify.com/user/31cqxovj6tzltyrvitvwzaxxt7dy)
+![](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=white) >> [プロフィール](https://open.spotify.com/user/31cqxovj6tzltyrvitvwzaxxt7dy)<br>
 ![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/Font_Awesome-339AF0?style=flat&logo=fontawesome&logoColor=white)
