@@ -10,7 +10,7 @@ I'm now studying at TypeScript.
 I have lived in US for 6years so, I can able to understand English little bit, but my English skill are not that good.
 
 ## 連絡先 - contact<br>
-・Discord：`律-Ritsu#0001` => おそらく一番対応が早いです。 I think this is fastest way to take a contact to me.<br>
+・Discord：`律-Ritsu#0001` => おそらく一番対応が早いです。 I think this is the fastest way to take a contact to me.<br>
 ・メール：mail@ritsu-me.com => 2,3日ほどで対応いたします。 I'll respond it in 2 or 3days.<br>
 <br>
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritsu_me)<!--
