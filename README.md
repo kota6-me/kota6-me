@@ -10,7 +10,7 @@ I'm now studying at TypeScript.
 I have lived in US for 6years so, I can able to understand English little bit, but my English skill are not that good.
 
 ## 連絡先 - contact<br>
-・Discord：`律-Ritsu#` => おそらく一番対応が早いです。 I think this is the fastest way to take a contact to me.<br>
+・Discord：`律-Ritsu#1162` => おそらく一番対応が早いです。 I think this is the fastest way to take a contact to me.<br>
 ・メール：mail@ritsu-me.com => 2,3日ほどで対応いたします。 I'll respond it in 2 or 3days.<br>
 <br>
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritsu_me)<!--
@@ -20,7 +20,7 @@ I have lived in US for 6years so, I can able to understand English little bit, b
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ritsu.me@proton.me)<br>
 <br>
 ## Discord関係 - something about Discord<br>
-・`律-Ritsu#0001` => メイン垢 Main account<br>
+・`律-Ritsu#1162` => メイン垢 Main account<br>
 ・[自鯖](https://discord.gg/wTEAPKtZBX) My server(MAIN LANGUAGE IS JAPANESE)<br>
 <br>
 ## Website<br>
