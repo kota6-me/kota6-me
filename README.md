@@ -36,9 +36,9 @@ I have lived in US for 6years, so I can speak English little bit.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritsu-me)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritsu-me&theme=discord&locale=en&border_radius=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritsu-me&theme=onedark&locale=en&border_radius=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritsu-me&layout=compact&theme-discord)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritsu-me&layout=compact&theme=onedark)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritsu-me&theme=vue)
 
