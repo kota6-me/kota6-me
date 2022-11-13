@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=ADBAC7&center=true&vCenter=true&multiline=true&width=435&lines=Hi%F0%9F%91%8B!++I'm+Ritsu!!;Nice+2+meet+U!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=1000&color=ADBAC7&center=true&vCenter=true&width=435&height=80&lines=Hi%F0%9F%91%8B!++I'm+Ritsu!!;Nice+2+meet+U!!)](https://git.io/typing-svg)
 
 ## 自己紹介 - self introduction
 
