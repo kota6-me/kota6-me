@@ -36,7 +36,7 @@ I have lived in US for 6years, so I can speak English little bit.
 ## ステータス - Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=ritsu-me&theme=discord&no-bg=true&no-frame=true&margin-w=5&margin-h=5&title=MultipleLang,Commits,PullRequest,Repositories,Issues,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ritsu-me&theme=onedark&hide_border=true&border_radius=15&date_format=%5BY.%5Dn.j&background=22272E&stroke=5865F2&ring=5865F2&fire=5865F2&currStreakNum=ADBAC7&sideNums=ADBAC7&currStreakLabel=ADBAC7&sideLabels=ADBAC7&dates=ADBAC7)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ritsu-me&theme=onedark&hide_border=true&border_radius=15&date_format=%5BY.%5Dn.j&background=22272E&stroke=5865F2&ring=5865F2&fire=5865F2&currStreakNum=57F287&sideNums=ADBAC7&currStreakLabel=ADBAC7&sideLabels=ADBAC7&dates=ADBAC7)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritsu-me&locale=en&border_radius=true&show_icons=true&count_private=true&include_all_commits=false&bg_color=22272e&hide_border=true&text_color=adbac7&icon_color=adbac7&title_color=adbac7&cache_seconds=7200)
 
