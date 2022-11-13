@@ -42,7 +42,7 @@ I have lived in US for 6years, so I can speak English little bit.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritsu-me&layout=compact&bg_color=22272e&hide_border=true&text_color=adbac7&title_color=adbac7&cache_seconds=7200)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritsu-me&theme=vue)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ritsu-me&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 使用言語・ツール等 - Langs and Tools
 
