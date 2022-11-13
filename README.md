@@ -32,7 +32,7 @@ I have lived in US for 6years, so I can speak English little bit.
 ![Profile views](https://komarev.com/ghpvc/?username=ritsu-me)
 
 ## ステータス - Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=ritsu-me&theme=discord&row=2&column=3&no-bg=true&no-frame=true&margin-w=5&margin-h=5&title=MultipleLang,Commits,PullRequest,Repositories,Issues,Followers)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ritsu-me&theme=discord&no-bg=true&no-frame=true&margin-w=5&margin-h=5&title=MultipleLang,Commits,PullRequest,Repositories,Issues,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritsu-me)
 
