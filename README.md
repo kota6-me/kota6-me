@@ -32,7 +32,7 @@ I have lived in US for 6years, so I can speak English little bit.
 ![Profile views](https://komarev.com/ghpvc/?username=ritsu-me)
 
 ## ステータス - Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ritsu-me&theme=discord&row=2&column=3&no-bg=true&no-frame=true&margin-w=5&margin-h=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ritsu-me)
 
@@ -40,7 +40,7 @@ I have lived in US for 6years, so I can speak English little bit.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritsu-me&layout=compact)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritsu-me&theme=discord&row=2&column=3&no-bg=true&no-frame=true&margin-w=5&margin-h=5)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritsu-me&theme=vue)
 
 ## 使用言語・ツール等 - Langs and Tools
 
