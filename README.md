@@ -5,9 +5,9 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 またTypeScriptも勉強しています。他言語についても随時履修予定です。<br>
 
 👋Hello!! My name is Ritsu Yuzaki.
-I'm a Japanese senior high school student and, makeng some Bots in Discord.
-I'm now studying at TypeScript.
-I have lived in US for 6years so, I can able to understand English little bit, but my English skill are not that good.
+I'm a Japanese senior high school student, and making  DiscordBots.
+I'm now studying TypeScript, Ruby, Go.
+I have lived in US for 6years, so I can speak English little bit.
 
 ## 連絡先 - contact<br>
 ・Discord：`律-Ritsu#1162` => おそらく一番対応が早いです。 I think this is the fastest way to take a contact to me.<br>
