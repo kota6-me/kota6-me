@@ -40,7 +40,7 @@ I have lived in US for 6years, so I can speak English little bit.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritsu-me&layout=compact)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritsu-me&theme=discord&row=2&column=3&no-bg=true&no-frame=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ritsu-me&theme=discord&row=2&column=3&no-bg=true&no-frame=true&margin-w=5&margin-h=5)
 
 ## 使用言語・ツール等 - Langs and Tools
 
