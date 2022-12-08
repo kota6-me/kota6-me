@@ -30,7 +30,8 @@ I have lived in US for 6years, so I can speak English little bit.
 
 ## 閲覧数 - View nums
 
-![Profile views](https://komarev.com/ghpvc/?username=ritsu-me)
+![Profile views](https://komarev.com/ghpvc/?username=ritsu-me)<br>
+🎉2022/12/08 500PV達成🎉
 
 ## ステータス - Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=ritsu-me&theme=discord&no-bg=true&no-frame=true&margin-w=5&margin-h=5&title=MultipleLang,Commits,PullRequest,Repositories,Issues,Followers)](https://github.com/ryo-ma/github-profile-trophy)
