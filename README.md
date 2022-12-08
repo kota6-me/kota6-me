@@ -74,22 +74,17 @@ I have lived in US for 6years, so I can speak English little bit.
 
 ### エディター Using Editor
 
-![](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)
-![](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat?labelColor=black&logo=visual-studio-code)
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
+![](https://img.shields.io/badge/WebStorm-000000?style=flat&logo=WebStorm&logoColor=white)
+![](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
-![](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![](https://img.shields.io/badge/RubyMine-000000.svg?&style=flat&logo=RubyMine&logoColor=white)
+![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white)
 
 ### OS
 
 ![](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-![](https://img.shields.io/badge/mac%20os-000000?style=flat&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
-![](https://img.shields.io/badge/Android-32de84?labelColor=black&logo=android)
-![](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ### 相棒 - My pals
 
