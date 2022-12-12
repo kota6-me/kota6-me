@@ -3,19 +3,13 @@
 
 👋こんにちは！ 由崎律です！
 
-DiscordというSNSでNode.JSでBotを作っている高校生です！
-
-またTypeScriptも勉強しています。
-
-他言語についても随時履修予定です。
+DiscordというSNSでNode.JSでBotを作っている高校生です！またTypeScriptも勉強しています。他言語についても随時履修予定です。
 
 👋Hello!! My name is Ritsu Yuzaki.
 
-I'm a Japanese senior high school student, and making  DiscordBots.
+I'm a Japanese senior high school student, and making  DiscordBots. I'm now studying TypeScript, Ruby and Go.
 
-I'm now studying TypeScript, Ruby and Go.
-
-I have lived in US for 6years, so I can speak English little bit.
+I've lived in US for 6years, so I can speak English little bit.
 
 ## 連絡先 - contact<br>
 ・Discord：[`律-Ritsu#0001`](https://discord.com/users/716343156513439845) => おそらく一番対応が早いです。 I think this is the fastest way to take a contact to me.<br>
@@ -54,29 +48,19 @@ I have lived in US for 6years, so I can speak English little bit.
 ### 言語 - Langs
 
 ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-
 ![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
 ![](https://img.shields.io/badge/JavaScript-f0db4f?labelColor=black&logo=javascript)
 
 ### 勉強中 - Studying Langs
 
 ![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-
 ![](https://img.shields.io/badge/TypeScript-007acc?labelColor=black&logo=typescript)
-
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-
 ![](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
-
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
-
 ![](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
 ### ホスト - Using Host service 
@@ -86,33 +70,26 @@ I have lived in US for 6years, so I can speak English little bit.
 ### エディター Using Editor
 
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat?labelColor=black&logo=visual-studio-code)
-
-![](https://img.shields.io/badge/replit-667881?style=flat&logo=replit&logoColor=white)
-
+![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit)
 ![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
 
 ### OS
 
 ![](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
-
 ![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
 
 ### 相棒 - My pals
 
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=black)](https://open.spotify.com/user/31cqxovj6tzltyrvitvwzaxxt7dy)
-
 ![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
 ![](https://img.shields.io/badge/Origin-148EFF?style=flat&logo=origin&logoColor=white)
-
 ![](https://img.shields.io/badge/Riot_Games-D32936?style=flat&logo=riot-games&logoColor=white)
 
 ![](https://img.shields.io/badge/McDonald's-FBC817?style=flat&logo=McDonald's&logoColor=white)
-
 ![](https://img.shields.io/badge/KFC-F40027?style=flat&logo=kfc&logoColor=white)
 
 ### マシン - PC spec
 
 ![](https://img.shields.io/badge/AMD%20Ryzen_3_3100-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-
 ![](https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
