@@ -7,7 +7,7 @@ DiscordというSNSでNode.JSでBotを作っている高校生です！
 
 👋Hello!! My name is Ritsu Yuzaki.
 I'm a Japanese senior high school student, and making  DiscordBots.
-I'm now studying TypeScript, Ruby, Go.
+I'm now studying TypeScript, Ruby and Go.<br>
 I have lived in US for 6years, so I can speak English little bit.
 
 ## 連絡先 - contact<br>
