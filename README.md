@@ -32,7 +32,7 @@ I've lived in US for 6years, so I can speak English little bit.
 ## 閲覧数 - View nums
 
 ![Profile views](https://komarev.com/ghpvc/?username=ritsu-me)<br>
-🎉2022/12/08 500PV達成🎉
+🎉2022/12/08 500PV達成🎉<br>
 🎉2023/01/01 1000PV達成🎉
 
 ## ステータス - Stats
