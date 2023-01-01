@@ -23,7 +23,7 @@ I've lived in US for 6years, so I can speak English little bit.
 <br>
 ## Discord関係 - something about Discord<br>
 ・[`律-Ritsu#0001`](https://discord.com/users/716343156513439845) => メイン垢 Main account<br>
-・[自鯖](https://discord.gg/wTEAPKtZBX) My server(MAIN LANGUAGE IS JAPANESE)<br>
+・[Discordサーバー](https://discord.gg/MTwuVmmffY) My server(MAIN LANGUAGE IS JAPANESE)<br>
 <br>
 ## Website<br>
 ・[公式サイト - My Website](https://ritsu-me.com/)<br>
@@ -33,6 +33,7 @@ I've lived in US for 6years, so I can speak English little bit.
 
 ![Profile views](https://komarev.com/ghpvc/?username=ritsu-me)<br>
 🎉2022/12/08 500PV達成🎉
+🎉2023/01/01 1000PV達成🎉
 
 ## ステータス - Stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=ritsu-me&theme=discord&no-bg=true&no-frame=true&margin-w=5&margin-h=5&title=MultipleLang,Commits,PullRequest,Repositories,Issues,Followers)](https://github.com/ryo-ma/github-profile-trophy)
