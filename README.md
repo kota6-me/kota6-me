@@ -10,7 +10,7 @@ I'm a Japanese senior high school student.
 I've lived in US for 6years, so I can speak English little bit.
 
 ## 連絡先 - contact<br>
-・Discord：引退しました <br>
+・Discord：`RitsuYuzaki#8852` <br>
 ・メール：me@ritsu-me.com => 2,3日ほどで対応いたします。 I'll respond it in 2 or 3days.<br>
 <br>
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritsu_me)
@@ -20,8 +20,8 @@ I've lived in US for 6years, so I can speak English little bit.
 [![](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://donate.stripe.com/bIY8A8ez3e2Q5y07ss)
 <br>
 ## Discord関係 - something about Discord<br>
-・引退しました<br>
-・サーバー閉鎖<br>
+・`RitsuYuzaki#8852`<br>
+・[Zone](https://discord.gg/MTwuVmmffY)<br>
 <br>
 ## Website<br>
 ・[公式サイト - My Website](https://ritsu-me.com/)<br>
