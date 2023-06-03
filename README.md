@@ -24,8 +24,8 @@ I've lived in US for 6years, so I can speak English little bit.
 ・[Zone](https://discord.gg/MTwuVmmffY)<br>
 <br>
 ## Website<br>
-・[公式サイト - My Website](https://ritsu-me.com/)<br>
-・[ブログ - My Blog](https://note.com/ritsu_me/)<br>
+・[公式サイト - My Website](https://r1tsu.com/)<br>
+・[ブログ - My Blog](https://r1tsu.com/posts)<br>
 
 ## 閲覧数 - View nums
 
