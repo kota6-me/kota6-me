@@ -20,7 +20,7 @@ I've lived in US for 6years, so I can speak English little bit.
 [![](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)](https://donate.stripe.com/bIY8A8ez3e2Q5y07ss)
 <br>
 ## Discord関係 - something about Discord<br>
-・`RitsuYuzaki#8852`<br>
+・`@ritsu.me`<br>
 ・[Zone](https://discord.gg/MTwuVmmffY)<br>
 <br>
 ## Website<br>
@@ -34,6 +34,8 @@ I've lived in US for 6years, so I can speak English little bit.
 🎉2023/01/01 1000PV達成🎉
 
 ## ステータス - Stats
+[![wakatime](https://wakatime.com/badge/user/ba609eb3-533e-4cc2-a749-e1cc28c04146.svg?style=for-the-badge)](https://wakatime.com/@ba609eb3-533e-4cc2-a749-e1cc28c04146)
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ritsu-me&theme=discord&no-bg=true&no-frame=true&margin-w=5&margin-h=5&title=MultipleLang,Commits,PullRequest,Repositories,Issues,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ritsu-me&theme=onedark&hide_border=true&border_radius=15&date_format=%5BY.%5Dn.j&background=22272E&stroke=5865F2&ring=5865F2&fire=5865F2&currStreakNum=57F287&sideNums=ADBAC7&currStreakLabel=ADBAC7&sideLabels=ADBAC7&dates=ADBAC7)](https://git.io/streak-stats)
