@@ -10,7 +10,7 @@ I'm a Japanese senior high school student.
 I've lived in US for 6years, so I can speak English little bit.
 
 ## 連絡先 - contact<br>
-・Discord：`RitsuYuzaki#8852` <br>
+・Discord：`@ritsu.me` <br>
 ・メール：me@ritsu-me.com => 2,3日ほどで対応いたします。 I'll respond it in 2 or 3days.<br>
 <br>
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritsu_me)
