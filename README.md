@@ -49,34 +49,39 @@ I've lived in US for 6years, so I can speak English little bit.
 ### 言語 - Langs
 
 ![](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-f0db4f?labelColor=black&logo=javascript)
+![](https://img.shields.io/badge/TypeScript-007acc?labelColor=black&logo=typescript)
+![](https://img.shields.io/badge/NEXT.JS-ffffff?style=flat&logo=next.js&logoColor=000000)
 
 ### 勉強中 - Studying Langs
 
+![](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007acc?labelColor=black&logo=typescript)
 ![](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![](https://img.shields.io/badge/Kotlin-0095D5?&style=flat&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
 
 ### ホスト - Using Host service 
 
-![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit)
+![](https://img.shields.io/badge/Replit-000000?labelColor=black&logo=replit)
+![](https://img.shields.io/badge/Deno_Deploy-000000?labelColor=black&logo=deno)
+![](https://img.shields.io/badge/Netlify-000000?labelColor=black&logo=netlify)
 
 ### エディター Using Editor
 
-![](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=flat?labelColor=black&logo=visual-studio-code)
-![](https://img.shields.io/badge/Replit-9c9c9c?labelColor=black&logo=replit)
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/VS_Code-0078d7?style=flat?labelColor=black&logo=visual-studio-code)
+![](https://img.shields.io/badge/Replit-000000?labelColor=black&logo=replit)
+![](https://img.shields.io/badge/Intellﾘ_IDEA_Ultimate-000000.svg?style=flat&logo=intellij-idea&logoColor=white)
+![](https://img.shields.io/badge/WebStorm-000000.svg?style=flat&logo=webstorm&logoColor=white)
+
 
 ### OS
 
 ![](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![](https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white)
 ![](https://img.shields.io/badge/Windows-00a4ef?labelColor=black&logo=windows)
 
 ### 相棒 - My pals
@@ -84,7 +89,7 @@ I've lived in US for 6years, so I can speak English little bit.
 [![](https://img.shields.io/badge/Spotify-1ED760?&style=flat&logo=spotify&logoColor=black)](https://open.spotify.com/user/31cqxovj6tzltyrvitvwzaxxt7dy)
 ![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)
 
-![](https://img.shields.io/badge/Origin-148EFF?style=flat&logo=origin&logoColor=white)
+![](https://img.shields.io/badge/Origin-orange?style=flat&logo=origin&logoColor=white)
 ![](https://img.shields.io/badge/Riot_Games-D32936?style=flat&logo=riot-games&logoColor=white)
 
 ![](https://img.shields.io/badge/McDonald's-FBC817?style=flat&logo=McDonald's&logoColor=white)
