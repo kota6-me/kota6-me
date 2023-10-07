@@ -11,7 +11,7 @@ I've lived in US for 6years, so I can speak English little bit.
 
 ## 連絡先 - contact<br>
 ・Discord：`@ritsu.me` <br>
-・メール：me@ritsu-me.com => 2,3日ほどで対応いたします。 I'll respond it in 2 or 3days.<br>
+・メール：me@r1tsu.com => 2,3日ほどで対応いたします。 I'll respond it in 2 or 3days.<br>
 <br>
 [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ritsu_me)
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ritsu.me@proton.me)<br>
@@ -24,8 +24,8 @@ I've lived in US for 6years, so I can speak English little bit.
 ・[Zone](https://discord.gg/MTwuVmmffY)<br>
 <br>
 ## Website<br>
-・[公式サイト - My Website](https://r1tsu.com/)<br>
-・[ブログ - My Blog](https://r1tsu.com/posts)<br>
+・[公式サイト - My Website](https://note.r1tsu.com/) 現在メンテナンス中のためブログにリダイレクトされます。<br>
+・[ブログ - My Blog](https://note.r1tsu.com/)<br>
 
 ## 閲覧数 - View nums
 
@@ -98,4 +98,4 @@ I've lived in US for 6years, so I can speak English little bit.
 ### マシン - PC spec
 
 ![](https://img.shields.io/badge/AMD%20Ryzen_3_3100-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![](https://img.shields.io/badge/NVIDIA-GTX960-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
