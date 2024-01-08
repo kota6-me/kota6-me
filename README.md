@@ -21,10 +21,9 @@ I've lived in US for 6years, so I can speak English little bit.
 <br>
 ## Discord関係 - something about Discord<br>
 ・`@ritsu.me`<br>
-・[Zone](https://discord.gg/MTwuVmmffY)<br>
 <br>
 ## Website<br>
-・[公式サイト - My Website](https://note.r1tsu.com/) 現在メンテナンス中のためブログにリダイレクトされます。<br>
+・[公式サイト - My Website](https://dev.r1tsu.com/)<br>
 ・[ブログ - My Blog](https://note.r1tsu.com/)<br>
 
 ## 閲覧数 - View nums
