@@ -8,6 +8,15 @@ My name is <strong>Kotaro</strong>.
 I'm 18y/o, and Japanese High School Student.
 <br>
 I'm also learning as a newbie developer
+<br>
+<br>
+Using Japanese as primaly language, and English as Secondary.
+<br>
+<br>
+Born June 09th, 2006 in Miyagi Japan, raised in NewHydePark,NY / USA
+<br>
+<br>
+Please contact me by <a href="mailto:contact@kota6.me">Email</a> or DM'ing me by <a href="#sns">Discord</a>
 </div>
 
 <div align="center">
@@ -18,8 +27,19 @@ I'm also learning as a newbie developer
 
 ## SNS
 
+My Discord Account: `@kota6.me`
+
+[![Static Badge](https://img.shields.io/badge/My_Website-Click!!-orange?style=for-the-badge)](https://kota6.me)
+[![Static Badge](https://img.shields.io/badge/My_Blog-Click!!-orange?style=for-the-badge)](https://note.kota6.me)
+
+[![Static Badge](https://img.shields.io/badge/Wanting_this!!-orange?style=for-the-badge&logo=amazon&logoColor=white&label=Amazon)](https://imo.kota6.me)
+
+[![Static Badge](https://img.shields.io/badge/My_Account-black?style=for-the-badge&logo=vrchat&logoColor=white&label=VRChat&labelColor=black)](https://vrc.kota6.me)
+[![Static Badge](https://img.shields.io/badge/参加しよう!!-grey?style=for-the-badge&logo=discord&logoColor=blue&label=Discord%20server(JP)&labelColor=gray)](https://chat.kota6.me)
+
+[![Static Badge](https://img.shields.io/badge/kota6__me-yellowgreen?style=for-the-badge&logo=misskey&logoColor=white&label=Misskey.io)](https://misskey.io/@kota6_me)
+[![Static Badge](https://img.shields.io/badge/kota6__me-black?style=for-the-badge&logo=x&logoColor=white&label=Twitter(X))](https://twitter.com/kota6_me)
 [![Followers](https://badgen.org/img/bluesky/kota6.me/followers?style=for-the-badge)](https://bsky.app/profile/kota6.me)
-[![Followers](https://badgen.org/twitter/kota6_me/follow?style=for-the-badge)](https://twitter.com/kota6_me)
 
 # My skills✨
 
