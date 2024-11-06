@@ -1,3 +1,9 @@
+<style>
+*{
+  scroll-behavior: smooth;
+}
+</style>
+
 # Hello world🤩
 
 ## About me
