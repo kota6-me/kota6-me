@@ -1,12 +1,6 @@
-<style>
-*{
-  scroll-behavior: smooth;
-}
-</style>
-
 # Hello world🤩
 
-## About me
+# About me👤
 
 <div align="center">
 My name is <strong>Kotaro</strong>.
@@ -16,10 +10,10 @@ I'm 18y/o, and Japanese High School Student.
 I'm also learning as a newbie developer
 <br>
 <br>
-Using Japanese as primaly language, and English as Secondary.
+Using Japanese as primaly language, and English as secondary.
 <br>
 <br>
-Born June 09th, 2006 in Miyagi Japan, raised in NewHydePark,NY / USA
+Born June 09th, 2006 in Miyagi/Japan, raised in NewHydePark,NY/USA and Tokyo/Japan
 <br>
 <br>
 Please contact me by <a href="mailto:contact@kota6.me">Email</a> or DM'ing me by <a href="#sns">Discord</a>
