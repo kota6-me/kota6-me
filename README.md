@@ -32,7 +32,7 @@ My Discord Account: `@kota6.me`
 [![Static Badge](https://img.shields.io/badge/My_Website-Click!!-orange?style=for-the-badge)](https://kota6.me)
 [![Static Badge](https://img.shields.io/badge/My_Blog-Click!!-orange?style=for-the-badge)](https://note.kota6.me)
 
-[![Static Badge](https://img.shields.io/badge/Wanting_this!!-orange?style=for-the-badge&logo=amazon&logoColor=white&label=Amazon)](https://imo.kota6.me)
+[![Static Badge](https://img.shields.io/badge/My_Wishlist!!-orange?style=for-the-badge&logo=amazon&logoColor=white&label=Amazon)](https://imo.kota6.me)
 
 [![Static Badge](https://img.shields.io/badge/My_Account-black?style=for-the-badge&logo=vrchat&logoColor=white&label=VRChat&labelColor=black)](https://vrc.kota6.me)
 [![Static Badge](https://img.shields.io/badge/参加しよう!!-grey?style=for-the-badge&logo=discord&logoColor=blue&label=Discord%20server(JP)&labelColor=gray)](https://chat.kota6.me)
