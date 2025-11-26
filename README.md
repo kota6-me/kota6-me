@@ -5,7 +5,7 @@
 <div align="center">
 My name is <strong>Kotaro</strong>.
 <br>
-I'm 18y/o, and Japanese University Student.
+I'm 19y/o, and Japanese University Student.
 <br>
 Student of Tokyo University of Agriculture, Faculty of Life Sciences, Department of Molecular Microbiology
 <br>
