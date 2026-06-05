@@ -5,26 +5,30 @@
 <div align="center">
 My name is <strong>Kotaro</strong>.
 <br>
-I'm 19y/o, and Japanese University Student.
+I'm 20y/o, and Japanese University Student.
 <br>
 Student of Tokyo University of Agriculture, Faculty of Life Sciences, Department of Molecular Microbiology
 <br>
-I'm also learning as a newbie developer
+I'm also learning as a computer engineer.
 <br>
 <br>
-Using Japanese as primaly language, and English as secondary.
+Using Japanese as primaly language, and English as secondary. I have native-like proficiency in both.
+<br>
+Now learning Korean, Español and Português.
 <br>
 <br>
 Born June 09th, 2006 in Miyagi/Japan, raised in NewHydePark,NY/USA and Tokyo/Japan
 <br>
 <br>
-Please contact me by <a href="mailto:contact@kota6.me">Email</a> or DM'ing me by <a href="#sns">Discord</a>
+Please contact me by using <a href="mailto:contact@kota6.me">my personal email</a> or DM'ing me by <a href="#sns">Discord</a> for personal communication.
+<br>
+Please contact me to <a href="mailto:kota6.me@unitze.net">my job email (Unitze)</a> for a job offer.
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kota6-me&bg_color=00000000&hide_border=true&text_color=FDBA74&title_color=FB923C&locale=ja&hide=contribs&include_all_commits=true&show=prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats"/>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=kota6-me&no-frame=true&no-bg=true&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=kota6-me&no-frame=true&no-bg=true&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ## SNS
