@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img alt="こんにちは！Kotaro です / 大学で分子微生物学、趣味で Web をやっています / Node.js · TypeScript · Astro · Next.js" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&duration=3200&pause=900&color=FB923C&center=true&vCenter=true&width=680&height=60&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81Kotaro+%E3%81%A7%E3%81%99;%E5%A4%A7%E5%AD%A6%E3%81%A7%E5%88%86%E5%AD%90%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A6%E3%80%81%E4%BB%95%E4%BA%8B%E3%81%A7Web%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99;TypeScript+%2F+Astro+%2F+Next.js+%2F+Deno">
+<img alt="こんにちは！Kotaro です / 大学で分子微生物学、趣味で Web をやっています / Node.js · TypeScript · Astro · Next.js" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&duration=3200&pause=900&color=FB923C&center=true&vCenter=true&width=680&height=60&lines=こんにちは！Kotaro です / 大学で分子微生物学、趣味で Web をやっています / Node.js · TypeScript · Astro · Next.js">
 
 <br>
 
