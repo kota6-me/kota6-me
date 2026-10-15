@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img alt="こんにちは！Kotaro です / 大学で分子微生物学、仕事で Web をやっています / TypeScript · Astro · Next.js · Deno" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&duration=3200&pause=900&color=FB923C&center=true&vCenter=true&width=680&height=60&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81Kotaro+%E3%81%A7%E3%81%99;%E5%A4%A7%E5%AD%A6%E3%81%A7%E5%88%86%E5%AD%90%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A6%E3%80%81%E4%BB%95%E4%BA%8B%E3%81%A7Web%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99;TypeScript+%2F+Astro+%2F+Next.js+%2F+Deno">
+<img alt="こんにちは！Kotaro です / 大学で分子微生物学、趣味で Web をやっています / Node.js · TypeScript · Astro · Next.js" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&duration=3200&pause=900&color=FB923C&center=true&vCenter=true&width=680&height=60&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%EF%BC%81Kotaro+%E3%81%A7%E3%81%99;%E5%A4%A7%E5%AD%A6%E3%81%A7%E5%88%86%E5%AD%90%E5%BE%AE%E7%94%9F%E7%89%A9%E5%AD%A6%E3%80%81%E4%BB%95%E4%BA%8B%E3%81%A7Web%E3%82%92%E3%82%84%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99;TypeScript+%2F+Astro+%2F+Next.js+%2F+Deno">
 
 <br>
 
@@ -29,13 +29,13 @@
 
 <sub>**About me** — Engineer by trade, molecular microbiology student by day. Based in Tokyo, raised bilingual in NY.</sub>
 
-東京農業大学 生命科学部 **分子微生物学科** の学生で、[@Unitze](https://github.com/Unitze) でエンジニアとして働いています。
+東京農業大学 生命科学部 **分子微生物学科** の学生で、[@Unitze](https://github.com/Unitze) でエンジニアとして活動しています。
 生物学とソフトウェアの両方に足を置いていて、実験の合間に Web を書いているような生活です。
 
 |  |  |
 | :-- | :-- |
 | 🏫 **所属** | 東京農業大学 生命科学部 分子微生物学科 |
-| 💻 **仕事** | Engineer at [@Unitze](https://github.com/Unitze) |
+| 💻 **活動** | Engineer at [@Unitze](https://github.com/Unitze) |
 | 📍 **拠点** | Tokyo, Japan（ニューヨーク育ち） |
 | 🗣️ **言語** | 日本語・英語（ともにネイティブレベル） |
 | 📚 **学習中** | 한국어 / Español / Português |
