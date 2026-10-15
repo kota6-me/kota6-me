@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img alt="こんにちは！Kotaro です / 大学で分子微生物学、趣味で Web をやっています / Node.js · TypeScript · Astro · Next.js" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&duration=3200&pause=900&color=FB923C&center=true&vCenter=true&width=680&height=60&lines=こんにちは！Kotaro です / 大学で分子微生物学、趣味で Web をやっています / Node.js · TypeScript · Astro · Next.js">
+<!--<img alt="こんにちは！Kotaro です / 大学で分子微生物学、趣味で Web をやっています / Node.js · TypeScript · Astro · Next.js" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+JP&weight=600&size=22&duration=3200&pause=900&color=FB923C&center=true&vCenter=true&width=680&height=60&lines=こんにちは！Kotaro です / 大学で分子微生物学、趣味で Web をやっています / Node.js · TypeScript · Astro · Next.js">-->
 
 <br>
 
